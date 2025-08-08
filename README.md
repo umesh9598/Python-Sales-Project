@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis
+# 📊 Sales Data Exploratory Analysis using Python
 
 This repository contains a Python-based data analysis project focused on exploring and visualizing sales data to uncover trends and business insights.
 
